@@ -13,12 +13,17 @@ a{
     margin-right:8px;
 }
 
-.head-site{
 
-   
+
+nav{
+
+    display:inline-block;
 }
+.container{
 
-video{
-
-    justify-content: center;
+    display: flex;
+}
+li{
+    display: inline;
+    border-bottom:none;
 }
